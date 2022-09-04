@@ -1,0 +1,15 @@
+
+.filmCard[data-v-955a5576] {
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+@media (min-width: 1024px) {
+.about {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+}
